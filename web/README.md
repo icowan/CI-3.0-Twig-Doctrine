@@ -46,5 +46,6 @@
 
 ### 用法
 > 连接好数据库后执行下面命令
-``` php application/doctrine ```
+
+``` php application/doctrine ```  
 ``` php applicaiton/doctrine orm:schema-tool:create ``` // 创建表
